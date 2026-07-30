@@ -16,7 +16,7 @@ Atualmente estou trabalhando no <b>Hospital Universitário Pedro Ernesto (HUPE)<
 - Trabalho de forma colaborativa com a equipe de desenvolvedores da plataforma TeleAssistência realizando análises técnicas do sistema com o objetivo de prever possíveis erros e informar sobre os que ocorrem para que sejam resolvidos no menor tempo possível. 
 
 # Github Stats 📈
-![Lu1ssz Github Stats](https://github-readme-stats.vercel.app/api?username=dev-lu1ssz&show_icons=true&theme=transparent)
+![Lu1ssz GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-lu1ssz&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-lu1ssz&layout=compact)
 
 # 👨‍💻 Tecnologias e ferramentas
