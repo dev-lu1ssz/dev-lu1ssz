@@ -17,7 +17,7 @@ Atualmente estou trabalhando no <b>Hospital Universitário Pedro Ernesto (HUPE)<
 
 # Github Stats 📈
 ![dev-lu1ssz's GitHub Stats](https://readme-stats-github.pages.dev/api?username=dev-lu1ssz&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-lu1ssz&layout=compact)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=dev-lu1ssz&theme=shadow)
 
 # 👨‍💻 Tecnologias e ferramentas
 
